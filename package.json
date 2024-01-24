@@ -2,7 +2,7 @@
   "name": "capstone",
   "private": false,
   "version": "0.0.0",
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
     "deploy": "vite build && gh-pages -d dist",
     "dev": "vite",
